@@ -1,4 +1,4 @@
-# 🛵 Delivery Time Prediction (Linear Regression)
+# Delivery Time Prediction (Linear Regression)
 
 Predicting order delivery time for a food/grocery delivery platform (Porter) using order, restaurant, and logistics features.
 
